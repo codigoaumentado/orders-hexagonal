@@ -1,4 +1,4 @@
-package com.codigoaumentado.orders;
+package com.codigoaumentado.orders.infrastructure.persistence;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
